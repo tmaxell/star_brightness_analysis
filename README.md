@@ -1,6 +1,6 @@
 # star_brightness_analysis
 This is a graphical application designed to analyze images of space data. It allows users to perform image segmentation, analysis, and visualization of objects in space images.
-# Usage:
+# Usage
 
 <b> Image Cropping: </b> </br>
 
@@ -20,7 +20,7 @@ Click on the "Visualize" button. </br>
 Select the source image to visualize the analyzed objects. </br>
 The resulting image with overlaid objects is saved as "result.png". </br>
 
-# Note:
+# Note
 
 Ensure the source images are in JPEG or PNG format. </br>
 The application utilizes multithreading to speed up the analysis process. </br>
